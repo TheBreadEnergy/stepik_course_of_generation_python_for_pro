@@ -1,0 +1,3 @@
+card = '3456 9012 5678 1234'
+
+print(hide_card(card))
