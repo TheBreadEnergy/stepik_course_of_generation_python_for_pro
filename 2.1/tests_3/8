@@ -1,0 +1,1 @@
+print(is_valid('3 7 0'))
